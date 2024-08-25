@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Topparent
+{
+    background: rgb(172, 87, 87);
+    padding: 20px;
+    display: flex;
+    width: 800px;
+    flex-wrap: wrap;
+
+}
+.Child{
+    width: 800px;
+    margin: 10px;
+    background-color: lightseagreen;
+    padding: 20px;
+}
+    .One Top{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.Top{
+display: flex;
+}
+.first{
+    gap: 10;
+}
